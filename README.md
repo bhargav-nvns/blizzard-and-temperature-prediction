@@ -28,3 +28,5 @@ For analysis, we used parameters such as accuracy and F1 score. Accuracy measure
  <br>Recall = TP / (TP + FN)
  <br>
  ![image](https://github.com/bhargav-nvns/blizzard-and-temperature-prediction/assets/148454572/b5d4ba75-876c-4ad3-9bcf-f3dd3bf0d770)
+
+ # the entire project file is in the file named "project".
